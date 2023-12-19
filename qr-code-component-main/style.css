@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 125px;
+}
+.square {
+    height: 400px;
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    text-align: center;
+
+    
+}
+
+.square img {
+    height: 250px;
+    margin-top: 15px;
+    border-radius: 15px;
+    width: 250px;
+
+}
+.square h2  {
+    font-family: sans-serif;
+    width: 250px;
+    margin-left:  25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.square h3 {
+    font-family: sans-serif;
+    width: 250px;
+    margin-left: 25px;
+    font-size: 12px;
+    font-weight: 0;
+
+}
